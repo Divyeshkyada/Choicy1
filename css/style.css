@@ -1449,15 +1449,17 @@ li{
     transition-duration: .3s;
   }
   /* linkdin*/
+
   .containerThree:hover {
-    background-color: #0072b1;
+    background-color: #f31710;
     transition-duration: .3s;
   }
   /* Whatsapp*/
   .containerFour:hover {
-    background-color: #128C7E;
+    background-color: #0eaa81;
     transition-duration: .3s;
   }
+  
   
   .socialContainer:active {
     transform: scale(0.9);
