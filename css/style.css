@@ -1566,6 +1566,10 @@ li{
     transition-duration: 0.3s;
     transition-timing-function: ease-out;
 }
+.iu{
+    background-color: white;
+}
+
 
 .hvr-sweep-to-top2:hover:before {
     transform: scaleY(1);
