@@ -1424,6 +1424,9 @@ li{
 .iu:hover {
     background-color: #9255CE;
 }
+.iu{
+    background-color: #FFFFFF;
+}
 
 @keyframes bs-animation {
     0% {
